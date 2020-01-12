@@ -1,5 +1,10 @@
 package com.example.dev_intensive.utils
 
+import android.app.Activity
+import android.content.Context
+import android.view.View
+import android.view.inputmethod.InputMethodManager
+
 object Utils {
     fun parseFullName(fullName : String?) : Pair<String?,String?>{
         val parts = fullName?.split(" ")

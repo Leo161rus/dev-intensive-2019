@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">dev-intensive-2019</string>
+    <string name="enter_text">Введите текст</string>
+    <string name="pic_bender">pic_bender</string>
+    <string name="send_ic">send ic</string>
+</resources>
